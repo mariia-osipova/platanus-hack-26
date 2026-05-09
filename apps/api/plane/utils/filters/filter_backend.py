@@ -22,7 +22,7 @@ class ComplexFilterBackend(filters.BaseFilterBackend):
     Filter backend that supports complex JSON filtering.
 
     For full, up-to-date examples and usage, see the package README
-    at `plane/utils/filters/README.md`.
+    at `plane/utils/filters/readme-plane.md`.
     """
 
     filter_param = "filters"
